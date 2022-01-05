@@ -1,14 +1,32 @@
 # hack-quizz
-Step 1: Mở quizz của bạn https://quizizz.com/join/
+Tất tần tật về hack đáp án trên quizz:
 
-Step 2: Mở tab Console [Ctrl+Shift+J]
+Cách 1:
+	Step 1: start your quizizz in https://quizizz.com/join/
 
-Step 3: Copy và paste đoạn code này vào tab console
+	Step 2: open console tab [Ctrl+Shift+J]
 
-// quizizz hack by LTP
-
-fetch("https://raw.githubusercontent.com/lucthienphong1120/hack-quizizz/main/script.js")
+	Step 3: paste this code
+	
+	// quizizz hack by LTP
+	fetch("https://raw.githubusercontent.com/lucthienphong1120/hack-quizizz/main/script.js")
     .then((res) => res.text()
     .then((t) => eval(t)))
-    
-Step 4: Chúc bạn được điểm cao =)))
+	
+Cách 2: Dừng thời gian chạy để tra đáp án
+
+Mở console và gõ lệnh:
+
+debugger;
+
+Lúc này thời gian sẽ ngừng,tha hồ tra nha =)))
+
+Cách 3:Tra đáp án trên web
+
+-Truy cập địa chỉ https://schoolcheats.net/quizizz/
+
+-Xác thực tài khoản bằng discord
+
+-Nhập mã code bài ktra
+
+-Ctrl F để tra đáp án 
