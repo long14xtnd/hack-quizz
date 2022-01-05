@@ -2,6 +2,7 @@
 Tất tần tật về hack đáp án trên quizz:
 
 Cách 1:
+
 	Step 1: start your quizizz in https://quizizz.com/join/
 
 	Step 2: open console tab [Ctrl+Shift+J]
